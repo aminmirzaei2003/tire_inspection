@@ -47,5 +47,6 @@ The pipeline consists of the following main components:
 
 ---
 
-## 🏗️ Pipeline Overview
+
+Install 
 
